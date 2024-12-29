@@ -36,9 +36,3 @@ img {
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
-
-/* Tab */
-@media screen and (max-width: 768px) {}
-
-/* Mobile */
-@media screen and (max-width: 600px) {}
